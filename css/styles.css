@@ -8,6 +8,8 @@ img {
   display: block;
   max-width: 100%;
 }
+header h1 {
+  margin: 0;
 }
 main h2 {
   margin: 0;

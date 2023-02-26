@@ -8,6 +8,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  height: 550px;
+  background: #A6B8AD url("../img/chernobyl-HBO-poster.jpg");
+  background-size: 100%;
+}
+
 header h1 {
   margin: 0;
 }

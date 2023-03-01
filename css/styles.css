@@ -97,7 +97,26 @@ main .music p {
   background: linear-gradient(#040505 6%, #3E716A);
 }
 
+footer {
+  background-color: #3E716A;
+}
 
+footer .contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 
+footer img {
+  height: 35px;
+  margin: 10px;
+}
 
+footer p {
+  margin: 10px 0 0 0;
+  padding: 5px;
+  color: #222222;
+  font-size: 200;
+  font-family: "Tahoma";
+  text-align: center;
 }

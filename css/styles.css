@@ -92,6 +92,10 @@ main .music .player h2 {
   color: #ffffff;
 }
 
+main .music p {
+  color: #ddd;
+  background: linear-gradient(#040505 6%, #3E716A);
+}
 
 
 

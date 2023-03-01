@@ -78,15 +78,22 @@ main .music .player {
   background: linear-gradient(#3E716A, #040505 90%);
   padding: 75px 55px;
 }
+
 main .music .player img {
   border-radius: 10px;
   width: 80%;
   margin: auto auto 30px auto;
 }
+
 main .music .player h2 {
   margin-bottom: 30px;
   padding: 0;
   text-align: center;
   color: #ffffff;
 }
+
+
+
+
+
 }

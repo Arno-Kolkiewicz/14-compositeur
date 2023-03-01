@@ -56,4 +56,14 @@ main .composer {
   background-color: black;
   color: #D6D6D6;
 }
+
+main .movie {
+  background-color: #3E716A;
+  color: #ffffff;
+}
+
+main .movie h2 {
+  color: #2B3833;
+}
+
 }

@@ -51,7 +51,6 @@ main p {
   font-size: 13pt;
 }
 
-
 main .composer {
   background-color: black;
   color: #D6D6D6;
@@ -64,6 +63,15 @@ main .movie {
 
 main .movie h2 {
   color: #2B3833;
+}
+
+main .director {
+  background-color: #040505;
+  color: #E8E8E8;
+}
+
+main .director h2 {
+  color: #455B54;
 }
 
 }

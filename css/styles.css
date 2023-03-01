@@ -51,4 +51,9 @@ main p {
   font-size: 13pt;
 }
 
+
+main .composer {
+  background-color: black;
+  color: #D6D6D6;
+}
 }

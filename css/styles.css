@@ -13,6 +13,7 @@ header {
   height: 550px;
   background: #A6B8AD url("../img/chernobyl-HBO-poster.jpg");
   background-size: 100%;
+  font-family: "Oswald";
 }
 
 header h1 {
